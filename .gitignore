@@ -4,3 +4,5 @@ venv
 *cache
 datasets
 py312
+config.bat
+node_modules
